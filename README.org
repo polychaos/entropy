@@ -1,0 +1,4 @@
+Entropy code examples
+
+This repository contains examples of programs written in Polychaos 
+AI programing language Entropy 
